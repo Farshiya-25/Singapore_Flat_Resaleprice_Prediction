@@ -1,4 +1,0 @@
-pandas
-pickle
-streamlit
-scikit-learn
